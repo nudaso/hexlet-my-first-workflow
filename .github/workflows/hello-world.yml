@@ -8,4 +8,4 @@ jobs:
     # операционная система для работы воркфлоу
     runs-on: ubuntu-latest
     steps:
-      - ls -la
+      - run : ls -la
